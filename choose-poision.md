@@ -1,0 +1,1 @@
+[Could be good](go-school.md)
