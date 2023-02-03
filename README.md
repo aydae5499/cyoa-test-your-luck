@@ -1,2 +1,2 @@
 # cyoa-test-your-luck
-test your luck [could-be-good](good.md)
+test your luck [could-be-bad](money.md)
