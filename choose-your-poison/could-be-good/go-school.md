@@ -1,5 +1,5 @@
-[die and end your life](dead.md)
+[die and end your life](choose-your-posion/could-be-good/go-school/dead.md)
 
 or
 
-[fail](fail.md)
+[fail](choose-your-poison/could-be-good/fail.md)
