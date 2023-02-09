@@ -1,3 +1,3 @@
-[Jail](jail.md)
+[Jail](hood/jail.md)
 
-[Bank](scammer.md)
+[Bank](hood/scammer.md)
