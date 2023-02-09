@@ -1,3 +1,3 @@
-[Success](hood.md)
+[Money](money/millionare.md)
 
-[Money](millionaire.md)
+[Success](success/hood.md)
