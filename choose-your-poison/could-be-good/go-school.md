@@ -1,4 +1,4 @@
-[Death](lockdown.md)
+[Death](death/lockdown.md)
 
 [Failure](fail.md)
 
