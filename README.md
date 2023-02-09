@@ -1,5 +1,6 @@
 # cyoa-test-your-luck
- [could be bad](choose-your-poison/could-be-bad/drop-out.md)
+
+[could be bad](choose-your-poison/could-be-bad/drop-out.md)
 
 or
 
