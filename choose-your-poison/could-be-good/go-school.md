@@ -1,6 +1,6 @@
 [Death](death/lockdown.md)
 
-[Failure](fail.md)
+[Failure](failure/fail.md)
 
 [die and end your life](choose-your-posion/could-be-good/go-school/dead.md)
 
