@@ -1,3 +1,3 @@
 [You move to your favorite Country](millionare/country.md)
 
-[You buy a million dollah mansion](millionaire/mansion.md)
+[You buy a million dollar mansion](millionaire/mansion.md)
